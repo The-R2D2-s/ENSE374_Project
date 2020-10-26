@@ -1,7 +1,7 @@
 # ENSE374_Project
 Vlog 1: https://youtu.be/im5dwunNnZc
 
-Vlog 2: 
+Vlog 2: https://youtu.be/9H3xF0aL1s8
 
 # Project Boards
 
