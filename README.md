@@ -20,5 +20,7 @@ User Stories: https://github.com/The-R2D2-s/ENSE374_Project/projects/1
 
 [R2D2's Project Stakeholder Analysis](https://github.com/The-R2D2-s/ENSE374_Project/blob/main/R2D2's%20Stakeholder%20Analysis.docx?raw=true)
 
+[R2D2's Project Activity 3 Files](https://github.com/The-R2D2-s/ENSE374_Project/raw/main/Activity%203%20files.zip)
+
 # Project Wiki
 https://github.com/The-R2D2-s/ENSE374_Project.wiki.git
