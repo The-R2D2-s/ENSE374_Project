@@ -23,5 +23,7 @@ User Stories: https://github.com/The-R2D2-s/ENSE374_Project/projects/1
 
 [R2D2's Project Activity 3 Files](https://github.com/The-R2D2-s/ENSE374_Project/raw/main/Activity%203%20Files.zip)
 
+[R2D2's Project RACI Chart (updated)](https://github.com/The-R2D2-s/ENSE374_Project/raw/main/R2D2's%20RACI%20Chart%20(Updated).docx)
+
 # Project Wiki
 https://github.com/The-R2D2-s/ENSE374_Project.wiki.git
