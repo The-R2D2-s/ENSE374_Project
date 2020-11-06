@@ -3,8 +3,9 @@ Vlog 1: https://youtu.be/im5dwunNnZc
 
 Vlog 2: https://youtu.be/9H3xF0aL1s8
 
-# Project Boards
+Vlog 3: https://youtu.be/AAc53253amo
 
+# Project Boards
 User Stories: https://github.com/The-R2D2-s/ENSE374_Project/projects/1
 
 # Project Documents
