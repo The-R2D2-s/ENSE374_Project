@@ -1,0 +1,34 @@
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="display-3">Movie Gnerator</h1>
+        <p>By Nikita Khavronin, Nisarg Shah, and Mayank Vashisht</p>
+        <p><a class="btn btn-primary btn-lg" href="https://github.com/The-R2D2-s/ENSE374_Project" role="button">Learn more »</a></p>
+    </div>
+</div>
+<div class="popular">
+    <div class="container">
+        <h3 class="display-4 text-left">Most Popular</h3>
+        <hr>
+        <div class="row popular-container justify-content-center">
+            <% data.results.forEach((el, index) => { %>
+            <% if (index >=  5) { %>
+            <% return %>
+            <% } %>
+            <a class="col-lg-2 col-md-3 col-sm-4 col-xs-12 d-flex flex-column m-2 card justify-content-fs align-items-center"
+                href="http://localhost:3000/film/<%= el.id %>"><img
+                    src="https://image.tmdb.org/t/p/w185<%= el.poster_path %>">
+                <p class="text-dark font-weight-bold mt-1 mb-0" style="min-height: 48px;"><%= el.original_title %></p>
+                <p class="text-secondary">
+                    <% let overviewSliced = el.overview.slice(0, 50); %>
+                    <% if (overviewSliced.length < el.overview.length) { %>
+                    <%= overviewSliced + '..' %>
+                    <% } %>
+                </p>
+            </a>
+
+            <% }) %>
+            <a class="navbar-brand btn btn-primary btn-lg m-4" href="http://localhost:3000/films/popular/1"
+                role="button">More films</a>
+        </div>
+    </div>
+</div>
